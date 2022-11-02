@@ -1,0 +1,12 @@
+C:\Users\Michal\Documents\Studia\Nauka testy\AutomatedTests\MyProject\bin\Debug\net6.0\MyProject.deps.json
+C:\Users\Michal\Documents\Studia\Nauka testy\AutomatedTests\MyProject\bin\Debug\net6.0\MyProject.dll
+C:\Users\Michal\Documents\Studia\Nauka testy\AutomatedTests\MyProject\bin\Debug\net6.0\MyProject.pdb
+C:\Users\Michal\Documents\Studia\Nauka testy\AutomatedTests\MyProject\obj\Debug\net6.0\MyProject.csproj.AssemblyReference.cache
+C:\Users\Michal\Documents\Studia\Nauka testy\AutomatedTests\MyProject\obj\Debug\net6.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michal\Documents\Studia\Nauka testy\AutomatedTests\MyProject\obj\Debug\net6.0\MyProject.AssemblyInfoInputs.cache
+C:\Users\Michal\Documents\Studia\Nauka testy\AutomatedTests\MyProject\obj\Debug\net6.0\MyProject.AssemblyInfo.cs
+C:\Users\Michal\Documents\Studia\Nauka testy\AutomatedTests\MyProject\obj\Debug\net6.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Documents\Studia\Nauka testy\AutomatedTests\MyProject\obj\Debug\net6.0\MyProject.dll
+C:\Users\Michal\Documents\Studia\Nauka testy\AutomatedTests\MyProject\obj\Debug\net6.0\refint\MyProject.dll
+C:\Users\Michal\Documents\Studia\Nauka testy\AutomatedTests\MyProject\obj\Debug\net6.0\MyProject.pdb
+C:\Users\Michal\Documents\Studia\Nauka testy\AutomatedTests\MyProject\obj\Debug\net6.0\ref\MyProject.dll
